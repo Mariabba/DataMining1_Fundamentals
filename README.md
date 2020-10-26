@@ -1,5 +1,7 @@
 # DM_project
 
+Project for the first Data Mining module course held at University of Pisa.
+
 # Guidelines for the task on Data Understanding
         Data understanding (30 points)
         1. Data semantics (3 points)
