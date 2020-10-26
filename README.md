@@ -1,12 +1,12 @@
 # DM_project
 
 # Guidelines for the task on Data Understanding
-Data understanding (30 points)
-    1. Data semantics (3 points)
-    2. Distribution of the variables and statistics (7 points)
-    3. Assessing data quality (missing values, outliers) (7 points)
-    4. Variables transformations (6 points)
-    5. Pairwise correlations and eventual elimination of redundant variables (7 points)
+    Data understanding (30 points)
+        1. Data semantics (3 points)
+        2. Distribution of the variables and statistics (7 points)
+        3. Assessing data quality (missing values, outliers) (7 points)
+        4. Variables transformations (6 points)
+        5. Pairwise correlations and eventual elimination of redundant variables (7 points)
 # Guidelines for the task on clustering
       Clustering Analysis by K-means: (13 points)
     1. Choice of attributes and distance function (1 points)
