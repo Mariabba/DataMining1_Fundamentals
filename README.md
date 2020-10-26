@@ -1,7 +1,7 @@
 # DM_project
 
 # Guidelines for the task on Data Understanding
-    Data understanding (30 points)
+        Data understanding (30 points)
         1. Data semantics (3 points)
         2. Distribution of the variables and statistics (7 points)
         3. Assessing data quality (missing values, outliers) (7 points)
