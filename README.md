@@ -23,18 +23,19 @@ Project for the first Data Mining module course held at University of Pisa.
       Analysis by hierarchical clustering (5 points)
             1. Choice of attributes and distance function (2 points)
             2. Show and discuss different dendograms using different algorithms (3 points)
-      Final evaluation of the best clustering approach and 
-      comparison of the clustering obtained (3 points)
+      Final evaluation of the best clustering approach and comparison of the clustering 
+      obtained (3 points)
 # Guidelines for the task on Association Rules Mining
     • Frequent patterns extraction with different values of support and different types 
       (i.e. frequent, close, maximal), (6 points)
-    • Discussion of the most interesting frequent patterns and analyze how changes the number of patterns 
-      w.r.t. the min_sup parameter (7 points)
+    • Discussion of the most interesting frequent patterns and analyze how changes the number of 
+      patterns w.r.t. the min_sup parameter (7 points)
     • Association rules extraction with different values of confidence (6 points)
     • Discussion of the most interesting rules and analyze how changes the number of rules w.r.t. 
       the min_conf parameter, histogram of rules' confidence and lift (7 points)
     • Use the most meaningful rules to replace missing values and evaluate the accuracy (2 points)
-    • Use the most meaningful rules to predict the target variable and evaluate the accuracy (2 points)
+    • Use the most meaningful rules to predict the target variable and evaluate the 
+      accuracy (2 points)
 # Guidelines for the task on Classification
     • Learning of different decision trees/classification algorithms with different parameters and gain
       formulas with the object of maximizing the performances (12 points)
@@ -50,11 +51,12 @@ Project for the first Data Mining module course held at University of Pisa.
     • The final paper must be easily readable, i.e., it is better to use font size higher than 9pt.
     • Use a readable font type and size, e.g. Arial, Times New Romans
     • You can use multiple columns and change the margin size but the project must be readable.
-    • It is NOT required to put python code, knime flows, or theoretical descriptions of the algorithm in the final paper.
-    • You must justify every choice you make with respect to the features used and selected for each algorithm and 
-      the parameters you tune. Discuss every result. Plots without any comment are useless. Even if you find a top 
-      configuration for your algorithm (e.g. K-Means with k=5) you MUST list which are the different parameters you 
-      tested and justify your choice.
+    • It is NOT required to put python code, knime flows, or theoretical descriptions of the algorithm in
+      the final paper.
+    • You must justify every choice you make with respect to the features used and selected for each 
+      algorithm and the parameters you tune. Discuss every result. Plots without any comment are useless. 
+      Even if you find a top  configuration for your algorithm (e.g. K-Means with k=5) you MUST list 
+      which are the different parameters you tested and justify your choice.
     • You can get 3 additional extra points in the final mark with respect to the following criteria:
     1. Innovation (0.5 points)
     2. Experimentation (0.5 points)
