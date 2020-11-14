@@ -23,7 +23,8 @@ Project for the first Data Mining module course held at University of Pisa.
       Analysis by hierarchical clustering (5 points)
             1. Choice of attributes and distance function (2 points)
             2. Show and discuss different dendograms using different algorithms (3 points)
-      Final evaluation of the best clustering approach and comparison of the clustering obtained (3 points)
+      Final evaluation of the best clustering approach and 
+      comparison of the clustering obtained (3 points)
 # Guidelines for the task on Association Rules Mining
     • Frequent patterns extraction with different values of support and different types 
       (i.e. frequent, close, maximal), (6 points)
