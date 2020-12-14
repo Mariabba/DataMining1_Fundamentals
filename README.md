@@ -34,7 +34,7 @@ Project for the first module of Data Mining course held at University of Pisa.
     4. Discussion of the most interesting rules and analyze how changes the number of rules
        w.r.t.  the min_conf parameter, histogram of rules' confidence and lift (7 points)
     5. Use the most meaningful rules to replace missing values and evaluate the accuracy (2 points)
-    • Use the most meaningful rules to predict the target variable and evaluate the 
+    6. Use the most meaningful rules to predict the target variable and evaluate the 
       accuracy (2 points)
 # Guidelines for the task on Classification
     1. Learning of different decision trees/classification algorithms with different parameters 
