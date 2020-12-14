@@ -1,6 +1,6 @@
 # DM_project
 
-Project for the first Data Mining module course held at University of Pisa.
+Project for the first module of Data Mining course held at University of Pisa.
 
 # Guidelines for the task on Data Understanding
         Data understanding (30 points)
