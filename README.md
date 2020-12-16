@@ -26,21 +26,20 @@ Project for the first module of Data Mining course held at University of Pisa.
       Final evaluation of the best clustering approach and comparison of the clustering 
       obtained (3 points)
 # Guidelines for the task on Association Rules Mining
-    1. Frequent patterns extraction with different values of support and different types 
-      (i.e. frequent, close, maximal), (6 points)
-    2. Discussion of the most interesting frequent patterns and analyze how changes the number 
-      of patterns w.r.t. the min_sup parameter (7 points)
+    1. Frequent patterns extraction with different values of support and different types
+    (i.e. frequent, close, maximal), (6 points)
+    2. Discussion of the most interesting frequent patterns and analyze how changes the
+    number of patterns w.r.t. the min_sup parameter (7 points)
     3. Association rules extraction with different values of confidence (6 points)
-    4. Discussion of the most interesting rules and analyze how changes the number of rules
-       w.r.t.  the min_conf parameter, histogram of rules' confidence and lift (7 points)
+    4. Discussion of the most interesting rules and analyze how changes the number of 
+    rules w.r.t. the min_conf parameter, histogram of rules' confidence and lift     (7 points)
     5. Use the most meaningful rules to replace missing values and evaluate the accuracy (2 points)
-    6. Use the most meaningful rules to predict the target variable and evaluate the 
-      accuracy (2 points)
+    6. Use the most meaningful rules to predict the target variable and evaluate the accuracy (2 points)
 # Guidelines for the task on Classification
-    1. Learning of different decision trees/classification algorithms with different parameters 
-      and gain formulas with the object of maximizing the performances (12 points)
-    2. Decision trees interpretation (6 points)
-    3. Decision trees validation with test and training set (6 points)
+    1.Learning of different decision trees/classification algorithms with different parameters 
+    and gain formulas with the object of maximizing the performances   (12 points)
+    2. Decision trees interpretation, validation with test and training set (6 points)
+    3. Training of different KNN classifiers with different parameters with the object of maximizing the performances (6 points)
     4. Discussion of the best prediction model (6 points)
 # Guidelines for the Project
     • Title page is not counted in the 20 page limits, i.e., you can have 20 pages + 1 title page, 
