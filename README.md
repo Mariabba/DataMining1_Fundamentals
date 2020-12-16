@@ -39,7 +39,8 @@ Project for the first module of Data Mining course held at University of Pisa.
     1.Learning of different decision trees/classification algorithms with different parameters 
     and gain formulas with the object of maximizing the performances   (12 points)
     2. Decision trees interpretation, validation with test and training set (6 points)
-    3. Training of different KNN classifiers with different parameters with the object of maximizing the performances (6 points)
+    3. Training of different KNN classifiers with different parameters with the object of 
+    maximizing the performances (6 points)
     4. Discussion of the best prediction model (6 points)
 # Guidelines for the Project
     • Title page is not counted in the 20 page limits, i.e., you can have 20 pages + 1 title page, 
