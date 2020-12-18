@@ -36,7 +36,7 @@ Project for the first module of Data Mining course held at University of Pisa.
     5. Use the most meaningful rules to replace missing values and evaluate the accuracy (2 points)
     6. Use the most meaningful rules to predict the target variable and evaluate the accuracy (2 points)
 # Guidelines for the task on Classification
-    1.Learning of different decision trees/classification algorithms with different parameters 
+    1. Learning of different decision trees/classification algorithms with different parameters 
     and gain formulas with the object of maximizing the performances   (12 points)
     2. Decision trees interpretation, validation with test and training set (6 points)
     3. Training of different KNN classifiers with different parameters with the object of 
