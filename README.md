@@ -1,4 +1,4 @@
-# DM_project
+# Data Mining molude 1 project
 
 Project for the first module of Data Mining course held at University of Pisa.
 
