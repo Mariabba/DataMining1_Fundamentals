@@ -1,4 +1,4 @@
-# Data Mining first molude project
+# First Data Mining molude project
 
 Project for the first module of the Data Mining course held at University of Pisa.
 
