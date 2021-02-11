@@ -1,6 +1,6 @@
-# Data Mining molude 1 project
+# Data Mining first molude project
 
-Project for the first module of Data Mining course held at University of Pisa.
+Project for the first module of the Data Mining course held at University of Pisa.
 
 # Guidelines for the task on Data Understanding
         Data understanding (30 points)
